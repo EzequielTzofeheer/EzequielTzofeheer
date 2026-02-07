@@ -1,17 +1,17 @@
-Hi 👋 My name is Ezequiel Dhonatan
+Hi 👋 My name is Ezequiel Tzofeheer
 ================================
 
 Educator and Back-End Developer
 -------------------------------
 
-Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | NodeJS | Cloud Jr. (AWS, GCP, Digital Ocean) | MySQL | MongoDB | DevOps (Terraform, Ansible, Serverless)
+Back-End | PHP | Laravel | Java Jr. | C# (.NET) Jr. | Docker | JavaScript | Vuejs | ReactJS | NextJS | TypeScript | NodeJS | Cloud Jr. (AWS, GCP, Digital Ocean) | MySQL | MongoDB | DevOps (Terraform, Ansible, Serverless)
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [ezequieldhonatan@ezedho.com.br](mailto:ezequieldhonatan@ezedho.com.br)
-* 🚀  I'm currently working on [EZEDHO](http://ezedho.com.br/)
+* ✉️  You can contact me at [contato@ezequieltzofeheer.com.br](mailto:contato@ezequieltzofeheer.com.br)
+* 🚀  I'm currently working on [Tzheer]()
 
-<a href="https://www.github.com/EzequielDhonatan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/EzequielDhonatan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/EzequielTzofeheer" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/EzequielTzofeheer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -46,5 +46,5 @@ src="https://img.shields.io/github/followers/EzequielDhonatan?logo=github&style=
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/EzequielDhonatan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ezequieldhonatan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@ezequieldhonatan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://twitter.com/EzequielDhonata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://br.linkedin.com/in/ezequieldhonatan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.github.com/EzequielTzofeheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/EzequielTzofeheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@EzequielTzofeheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://twitter.com/EzequielTzofehe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://br.linkedin.com/in/Ezequiel-Tzofeheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
