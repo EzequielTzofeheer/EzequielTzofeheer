@@ -1,4 +1,4 @@
-Hi 👋 My name is Ezequiel Tzofeheer
+Hi there, 👋 My name is Ezequiel Tzofeheer
 ================================
 
 Educator and Back-End Developer
